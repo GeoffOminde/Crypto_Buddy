@@ -8,7 +8,7 @@ A beginner-friendly, rule-based chatbot that analyzes a small, predefined crypto
 - `crypto_buddy.py` — main chatbot script (Python, no external libs).
 - `README.md` — 
 - `screenshots/` —  screenshots of sample conversations.
-- `submission/` —  screen recording.
+- `Crypto_Buddy.ipynb`
 
 ## How to run
 1. Ensure Python 3.8+ is installed.
