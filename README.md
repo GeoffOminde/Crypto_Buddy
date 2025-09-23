@@ -1,5 +1,5 @@
 # CryptoBuddy — Week 1 Assignment
-**Theme:** "Your First AI-Powered Financial Sidekick!" 🌟
+**Theme:** "First AI-Powered Financial Sidekick!" 🌟
 
 ## What it is
 A beginner-friendly, rule-based chatbot that analyzes a small, predefined crypto dataset and answers questions about profitability and sustainability.
