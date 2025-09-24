@@ -1,0 +1,1 @@
+This rule-based chatbot mimics basic AI decision-making by mapping user keywords to decision rules and scoring coins on simple signals (price trend, market cap, energy use, sustainability score). It selects top candidates via deterministic logic, explains reasons, and offers an ethics disclaimer — demonstrating how simple rules + data produce human-like suggestions.
