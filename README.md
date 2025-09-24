@@ -24,6 +24,9 @@ python crypto_buddy.py
 - Which coin should I buy for long-term growth?
 - Tell me about Cardano
 
+## 🎥 Demo Video  
+Watch how the app works here: [Crypto_Buddy Demo](https://screenrec.com/share/WTOpugYNUs)
+
 ## Stretch goals (optional)
 - Integrate CoinGecko API for real-time data.
 - Add NLTK/regex to parse more natural queries.
