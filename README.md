@@ -14,7 +14,8 @@ A beginner-friendly, rule-based chatbot that analyzes a small, predefined crypto
 ## How to run
 1. Ensure Python 3.8+ is installed.
 2. Run in terminal or IDE:
-```python crypto_buddy.py
+```
+python crypto_buddy.py
 
 ```
 3. Ask questions like:
